@@ -1,15 +1,1 @@
-hila953, omer_siton
-Hila Frumer (318933405), Omer Siton (316123819)
-
-EX: 4
-
-FILES:
-VirtualMemory.cpp
-Makefile -- makefile
-README -- this file
-
-REMARKS:
----------
-
-ANSWERS:
----------
+In this project i  implemented a virtual memory interface using hierarchical page tables of arbitrary depth using simulated physical memory.
